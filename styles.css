@@ -49,6 +49,8 @@ body {
   z-index: 2;
 }
 .work__text {
+  position: sticky;
+  top: 0;
   margin: auto;
   width: 80%;
 }
